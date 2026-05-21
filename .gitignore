@@ -9,3 +9,4 @@ terraform/*.tfstate.*
 terraform/.terraform.lock.hcl
 kubeconfig
 *.key
+.idea
