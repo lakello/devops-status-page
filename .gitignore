@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+.env
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+kubeconfig
+*.key
