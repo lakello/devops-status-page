@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: ghcr.io/Lakello/devops-status-page:latest
+          image: ghcr.io/lakello/devops-status-page:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
