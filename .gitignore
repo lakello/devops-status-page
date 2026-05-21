@@ -7,6 +7,7 @@ terraform/.terraform/
 terraform/*.tfstate
 terraform/*.tfstate.*
 terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
 kubeconfig
 *.key
 .idea
