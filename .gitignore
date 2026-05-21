@@ -11,3 +11,4 @@ terraform/terraform.tfvars
 kubeconfig
 *.key
 .idea
+.ingress-ip

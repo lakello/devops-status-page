@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: devops-status.62.84.114.181.nip.io
+    - host: __APP_HOST__
       http:
         paths:
           - path: /
