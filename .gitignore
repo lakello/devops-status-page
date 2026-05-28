@@ -12,3 +12,4 @@ kubeconfig
 *.key
 .idea
 .ingress-ip
+sa-key.json
